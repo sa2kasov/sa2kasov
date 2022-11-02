@@ -1,37 +1,54 @@
-### Hi there <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>
-
-<!--
-**sa2kasov/sa2kasov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### :hammer_and_wrench: Tech Stack
----
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+# Hi there! <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' height="30" width="30"/>
 
 
-### :chart_with_upwards_trend: My Statistics
----
+## :hammer_and_wrench: Tech Stack
+
+* **Web Design & Graphics**:
+![Photoshop](https://img.shields.io/badge/Photoshop-113b59?&logo=Adobe-Photoshop)
+![Illustrator](https://img.shields.io/badge/Illustrator-593600?&logo=Adobe-Illustrator)
+![Figma](https://img.shields.io/badge/Figma-551b0b?&logo=Figma)
+![SVG](https://img.shields.io/badge/SVG-593e15?&logo=SVG)
+
+* **Frontend**:
+![HTML](https://img.shields.io/badge/HTML-4f1c0d?&logo=HTML5)
+![CSS](https://img.shields.io/badge/CSS-1572B6?&logo=CSS3)
+![JavaScript](https://img.shields.io/badge/JavaScript-564e0b?logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/TypeScript-112a45?&logo=TypeScript)
+![React](https://img.shields.io/badge/React-224c58?&logo=React)
+![Redux](https://img.shields.io/badge/Redux-764ABC?&logo=Redux)
+![Gatsby.js](https://img.shields.io/badge/Gatsby-663399?&logo=Gatsby)
+![Next.js](https://img.shields.io/badge/Next.js-000?&logo=Next.js)
+![SCSS](https://img.shields.io/badge/SCSS-472436?&logo=Sass)
+![BEM](https://img.shields.io/badge/BEM-000?&logo=BEM)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-2a1d3f?&logo=Bootstrap)
+![Tailwind](https://img.shields.io/badge/Tailwind-02404a?&logo=Tailwind-CSS)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?&logo=jQuery)
+
+* **Backend**:
+![PHP](https://img.shields.io/badge/PHP-2a2b3f?&logo=PHP)
+![Node.js](https://img.shields.io/badge/Node.js-123612?&logo=Node.js)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?&logo=NestJS)
+![Express](https://img.shields.io/badge/Express-000?&logo=Express)
+
+* **Databases**:
+![SQL](https://img.shields.io/badge/SQL-59130c?&logo=Databricks)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?&logo=GraphQL)
+![MySQL](https://img.shields.io/badge/MySQL-182a38?&logo=MySQL)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17254f?&logo=PostgreSQL)
+![MongoDB](https://img.shields.io/badge/MongoDB-193919?&logo=MongoDB)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?&logo=SQLite)
+
+* **DevOps**:
+![Docker](https://img.shields.io/badge/Docker-0d3553?&logo=Docker)
+
+* **Tools**:
+![Git](https://img.shields.io/badge/Git-541c12?&logo=Git)
+![NPM](https://img.shields.io/badge/NPM-CB3837?&logo=NPM)
+![Webpack](https://img.shields.io/badge/Webpack-314b57?&logo=Webpack)
+![Gulp](https://img.shields.io/badge/Gulp-481919?&logo=Gulp)
+
+
+## :chart_with_upwards_trend: Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sa2kasov&theme=gruvbox_duo&hide_border=true&border_radius=5#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sa2kasov&theme=gruvbox&hide_border=true&border_radius=5#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
