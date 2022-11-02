@@ -3,13 +3,15 @@
 
 ## :hammer_and_wrench: Tech Stack
 
-* **Web Design & Graphics**:
+_**Web Design & Graphics**_
+
 ![Photoshop](https://img.shields.io/badge/Photoshop-113b59?&logo=Adobe-Photoshop)
 ![Illustrator](https://img.shields.io/badge/Illustrator-593600?&logo=Adobe-Illustrator)
 ![Figma](https://img.shields.io/badge/Figma-551b0b?&logo=Figma)
 ![SVG](https://img.shields.io/badge/SVG-593e15?&logo=SVG)
 
-* **Frontend**:
+_**Frontend**_
+
 ![HTML](https://img.shields.io/badge/HTML-4f1c0d?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-564e0b?logo=JavaScript)
@@ -24,13 +26,15 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind-02404a?&logo=Tailwind-CSS)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?&logo=jQuery)
 
-* **Backend**:
+_**Backend**_
+
 ![PHP](https://img.shields.io/badge/PHP-2a2b3f?&logo=PHP)
 ![Node.js](https://img.shields.io/badge/Node.js-123612?&logo=Node.js)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?&logo=NestJS)
 ![Express](https://img.shields.io/badge/Express-000?&logo=Express)
 
-* **Databases**:
+_**Database**_
+
 ![SQL](https://img.shields.io/badge/SQL-59130c?&logo=Databricks)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?&logo=GraphQL)
 ![MySQL](https://img.shields.io/badge/MySQL-182a38?&logo=MySQL)
@@ -38,10 +42,12 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-193919?&logo=MongoDB)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?&logo=SQLite)
 
-* **DevOps**:
+_**DevOps**_
+
 ![Docker](https://img.shields.io/badge/Docker-0d3553?&logo=Docker)
 
-* **Tools**:
+_**Tools**_
+
 ![Git](https://img.shields.io/badge/Git-541c12?&logo=Git)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?&logo=NPM)
 ![Webpack](https://img.shields.io/badge/Webpack-314b57?&logo=Webpack)
